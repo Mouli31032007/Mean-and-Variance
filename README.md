@@ -8,7 +8,7 @@ To find mean and variance of arrival of objects from the feeder using probabilit
 
 # Software required :  
 
-Python and Visual components tool
+Python and Visual components tool 
 
 # Theory:
 
